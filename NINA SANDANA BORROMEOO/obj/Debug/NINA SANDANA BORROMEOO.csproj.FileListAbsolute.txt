@@ -1,0 +1,11 @@
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA SANDANA BORROMEOO.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA_SANDANA_BORROMEOO.Form1.resources
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA_SANDANA_BORROMEOO.Properties.Resources.resources
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA SANDANA BORROMEOO.csproj.GenerateResource.cache
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA SANDANA BORROMEOO.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\bin\Debug\NINA SANDANA BORROMEOO.exe.config
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\bin\Debug\NINA SANDANA BORROMEOO.exe
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\bin\Debug\NINA SANDANA BORROMEOO.pdb
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA SANDANA BORROMEOO.exe
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA SANDANA BORROMEOO.pdb
+C:\Users\jeric\source\repos\NINA SANDANA BORROMEOO\obj\Debug\NINA SANDANA BORROMEOO.exe.config

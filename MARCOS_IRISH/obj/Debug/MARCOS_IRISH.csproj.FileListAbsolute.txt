@@ -1,0 +1,11 @@
+C:\Users\jeric\source\repos\MARCOS_IRISH\bin\Debug\MARCOS_IRISH.exe.config
+C:\Users\jeric\source\repos\MARCOS_IRISH\bin\Debug\MARCOS_IRISH.exe
+C:\Users\jeric\source\repos\MARCOS_IRISH\bin\Debug\MARCOS_IRISH.pdb
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.Form1.resources
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.Properties.Resources.resources
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.csproj.GenerateResource.cache
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.exe
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.pdb
+C:\Users\jeric\source\repos\MARCOS_IRISH\obj\Debug\MARCOS_IRISH.exe.config
