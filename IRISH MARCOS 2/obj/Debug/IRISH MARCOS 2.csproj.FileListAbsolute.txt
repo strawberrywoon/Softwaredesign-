@@ -1,0 +1,11 @@
+C:\Users\jeric\source\repos\IRISH MARCOS 2\bin\Debug\IRISH MARCOS 2.exe.config
+C:\Users\jeric\source\repos\IRISH MARCOS 2\bin\Debug\IRISH MARCOS 2.exe
+C:\Users\jeric\source\repos\IRISH MARCOS 2\bin\Debug\IRISH MARCOS 2.pdb
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH MARCOS 2.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH_MARCOS_2.Properties.Resources.resources
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH MARCOS 2.csproj.GenerateResource.cache
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH MARCOS 2.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH MARCOS 2.exe
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH MARCOS 2.pdb
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH MARCOS 2.exe.config
+C:\Users\jeric\source\repos\IRISH MARCOS 2\obj\Debug\IRISH_MARCOS_2.Musiczz.resources

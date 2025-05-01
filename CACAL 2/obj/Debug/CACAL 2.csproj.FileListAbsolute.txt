@@ -1,0 +1,10 @@
+C:\Users\jeric\source\repos\CACAL 2\bin\Debug\CACAL 2.exe.config
+C:\Users\jeric\source\repos\CACAL 2\bin\Debug\CACAL 2.exe
+C:\Users\jeric\source\repos\CACAL 2\bin\Debug\CACAL 2.pdb
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL 2.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL_2.Musiczz.resources
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL_2.Properties.Resources.resources
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL 2.csproj.GenerateResource.cache
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL 2.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL 2.exe
+C:\Users\jeric\source\repos\CACAL 2\obj\Debug\CACAL 2.pdb

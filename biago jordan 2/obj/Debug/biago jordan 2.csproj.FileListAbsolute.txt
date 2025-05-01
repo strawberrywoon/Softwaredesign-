@@ -1,0 +1,9 @@
+C:\Users\jeric\source\repos\biago jordan 2\obj\Debug\biago jordan 2.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\biago jordan 2\obj\Debug\biago_jordan_2.Properties.Resources.resources
+C:\Users\jeric\source\repos\biago jordan 2\obj\Debug\biago jordan 2.csproj.GenerateResource.cache
+C:\Users\jeric\source\repos\biago jordan 2\obj\Debug\biago jordan 2.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\biago jordan 2\bin\Debug\biago jordan 2.exe.config
+C:\Users\jeric\source\repos\biago jordan 2\bin\Debug\biago jordan 2.exe
+C:\Users\jeric\source\repos\biago jordan 2\bin\Debug\biago jordan 2.pdb
+C:\Users\jeric\source\repos\biago jordan 2\obj\Debug\biago jordan 2.exe
+C:\Users\jeric\source\repos\biago jordan 2\obj\Debug\biago jordan 2.pdb

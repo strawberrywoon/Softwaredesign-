@@ -1,0 +1,10 @@
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO LAB2.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO_LAB2.Properties.Resources.resources
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO LAB2.csproj.GenerateResource.cache
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO LAB2.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\BORROMEO LAB2\bin\Debug\BORROMEO LAB2.exe.config
+C:\Users\jeric\source\repos\BORROMEO LAB2\bin\Debug\BORROMEO LAB2.exe
+C:\Users\jeric\source\repos\BORROMEO LAB2\bin\Debug\BORROMEO LAB2.pdb
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO_LAB2.Musiczz.resources
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO LAB2.exe
+C:\Users\jeric\source\repos\BORROMEO LAB2\obj\Debug\BORROMEO LAB2.pdb
